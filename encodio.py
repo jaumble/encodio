@@ -130,8 +130,6 @@ def audio_to_message(filename, char_len):
     p.terminate()
     return message
 
-
-
 filename = "not_a_story_the_jedi_would_tell_you.wav"
 plagueis = "did you ever hear the tragedy of darth plagueis the wise"
 char_len = 1000
